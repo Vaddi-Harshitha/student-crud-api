@@ -1,0 +1,6 @@
+.venv/
+**/__pycache__/
+*.py[cod]
+.env
+student-crud-api/students.db
+students.db
